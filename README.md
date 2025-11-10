@@ -1,4 +1,3 @@
 # install-run-xray
-Скрипт установки и запуска xray сервера
-в ознакомительных и учебных целях
-wget https://raw.githubusercontent.com/akaC1J/install-run-xray/main/install-run-xray.sh
+1. Скрипт установки и запуска xray серверав ознакомительных и учебных целях
+2. wget https://raw.githubusercontent.com/akaC1J/install-run-xray/main/install-run-xray.sh
