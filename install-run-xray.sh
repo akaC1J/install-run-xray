@@ -19,7 +19,7 @@ apt install -y curl unzip jq
 # Проверка, установлен ли Xray
 if [ ! -f /usr/local/bin/xray ]; then
     echo "Xray не найден. Устанавливаем Xray..."
-    bash <(curl -Ls https://raw.githubusercontent.com/XTLS/Xray-install/main/install-release.sh)
+    bash <(curl -Ls https://raw.githubusercontent.com/XTLS/Xray-install/main/install-release.sh) install --version v24.9.7
 else
     echo "Xray уже установлен, пропускаем установку."
 fi
