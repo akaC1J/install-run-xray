@@ -27,3 +27,9 @@ wget https://raw.githubusercontent.com/akaC1J/install-run-xray/main/install-run-
 ---
 
 > ⚠️ Скрипт предназначен для тестовых и учебных целей, для ознакомления с протоколом VLESS
+
+### 🚀 Установка 
+
+```bash
+wget https://raw.githubusercontent.com/akaC1J/install-run-xray/main/install-client-xray.sh && chmod +x install-run-xray.sh && sudo ./install-run-xray.sh
+````
