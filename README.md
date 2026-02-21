@@ -31,5 +31,5 @@ wget https://raw.githubusercontent.com/akaC1J/install-run-xray/main/install-run-
 ### 🚀 Установка 
 
 ```bash
-wget https://raw.githubusercontent.com/akaC1J/install-run-xray/main/install-client-xray.sh && chmod +x install-run-xray.sh && sudo ./install-run-xray.sh
+wget https://raw.githubusercontent.com/akaC1J/install-run-xray/main/install-client-xray.sh && chmod +x install-client-xray.sh && sudo ./install-client-xray.sh
 ````
