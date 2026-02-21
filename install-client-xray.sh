@@ -187,7 +187,7 @@ cat > "$CONFIG_PATH" <<EOF
     },
     "inbounds": [
         {
-            "listen": "127.0.0.1",
+            "listen": "0.0.0.0",
             "port": 1080,
             "protocol": "socks",
             "settings": {
